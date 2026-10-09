@@ -1,9 +1,10 @@
-# STM32 Project Folders
-build
-
 # STM32 Project Files
 mx.scratch
 !.settings
+
+# Build Files/Folders
+build
+compile_commands.json
 
 # Misc Folders
 .vscode
