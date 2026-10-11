@@ -2,9 +2,9 @@
 
 # Overview
 
-Firmware for the Open_PWM_Gyro
+Firmware for the Open PWM Gyro
 
-The Open_PWM_Gyro board design can be found [here](https://github.com/jerinabr/Open_PWM_Gyro#)
+The Open PWM Gyro board design can be found [here](https://github.com/jerinabr/Open-PWM-Gyro#)
 
 This gyro will have a few modes including but not limited to:
 
