@@ -4,7 +4,7 @@
 
 Firmware for the Open PWM Gyro
 
-The Open PWM Gyro board design can be found [here](https://github.com/jerinabr/Open-PWM-Gyro#)
+The Open PWM Gyro board design can be found [here](https://github.com/jerinabr/Open-PWM-Gyro-Hardware#)
 
 This gyro will have a few modes including but not limited to:
 
